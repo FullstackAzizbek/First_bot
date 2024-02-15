@@ -1,0 +1,3 @@
+BOT_TOKEN = "6861473505:AAEVrRNU4MY8hBSMrgWxvsApIBHe-GPk8ME"
+
+DB = 'store.db'
